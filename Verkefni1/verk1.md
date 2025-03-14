@@ -12,8 +12,10 @@ Möppur og skjalar til að byggja leikinn t.d. scripts
 #Inspector
 Inn í það. get maður gert hlutir inn í leikinn gera eitthvað t.d að hreyfast.
 
-[a link](https://youtu.be/IHWhO_02WAo)
 
-[a link](https://www.youtube.com/watch?v=WJTBOXrB3do)
+[Unit 1](https://www.youtube.com/watch?v=WJTBOXrB3do)
+
+[Unit 2](https://youtu.be/IHWhO_02WAo)
+
 
 
