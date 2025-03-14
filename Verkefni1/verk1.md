@@ -1,15 +1,15 @@
-#Scene view
+# Scene view
 Þar sem maður sér leikinn í fly mode
 
-#Game view
+# Game view
 Sýnir hvernig leikinn lítur út, án þess að byrja leikinn
 
-#Project
+# Project
 Möppur og skjalar til að byggja leikinn t.d. scripts
-#Hierarchy
+# Hierarchy
 Öll hlutir sem birtjast inn í leikinn er inn í hierachy
 
-#Inspector
+# Inspector
 Inn í það. get maður gert hlutir inn í leikinn gera eitthvað t.d að hreyfast.
 
 
