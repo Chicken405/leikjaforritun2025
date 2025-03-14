@@ -13,9 +13,9 @@ Möppur og skjalar til að byggja leikinn t.d. scripts
 Inn í það. get maður gert hlutir inn í leikinn gera eitthvað t.d að hreyfast.
 
 
-[Unit 1](https://www.youtube.com/watch?v=WJTBOXrB3do)
+[Unit 1 video](https://www.youtube.com/watch?v=WJTBOXrB3do)
 
-[Unit 2](https://youtu.be/IHWhO_02WAo)
+[Unit 2 video](https://youtu.be/IHWhO_02WAo)
 
 
 
