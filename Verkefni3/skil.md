@@ -1,5 +1,5 @@
 # Lýsingur
-Leikurinn er lítill heimur þar sem ## markmiðið er að ná 100 stigum og opna kistu með lykil að heiminum.
+Leikurinn er lítill heimur þar sem ___markmiðið___ er að ná ___100___ stigum og ___opna kistu___ með lykil sem er í heimurinn.
 Það eru peningar og óvinir í heiminum og hættulegir klettar sem fara beint í sjóinn
 
 # Video
