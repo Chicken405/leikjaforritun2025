@@ -1,8 +1,0 @@
-<ui:UXML xmlns:ui="UnityEngine.UIElements" xmlns:uie="UnityEditor.UIElements" editor-extension-mode="False">
-    <ui:VisualElement name="VisualElement" style="flex-grow: 1; flex-direction: row; padding-bottom: 0; margin-bottom: 0; justify-content: flex-end; flex-basis: 0; flex-wrap: nowrap; flex-shrink: 1; background-color: rgba(0, 0, 0, 0); color: rgb(0, 0, 0);">
-        <ui:VisualElement name="container" style="flex-grow: 0; background-size: 100% 100%; width: auto; flex-shrink: 1; justify-content: flex-end; align-self: center; background-color: rgba(0, 0, 0, 0.24); margin-right: 0; align-items: stretch; position: relative; right: 0%; top: 0%; padding-top: 12px; padding-right: 12px; padding-bottom: 12px; padding-left: 12px;">
-            <ui:Label text="Þú vannst!&#10;(Geta halda áfram&#10;að fá meira stig)" style="background-color: rgba(0, 0, 0, 0); color: rgb(0, 226, 255); font-size: 20%; text-align: center; font-style: normal; white-space: nowrap; -unity-text-align: upper-center;" />
-            <ui:Button text="Vinna" name="button" style="text-align: center; font-style: bold; color: rgb(0, 0, 0);" />
-        </ui:VisualElement>
-    </ui:VisualElement>
-</ui:UXML>

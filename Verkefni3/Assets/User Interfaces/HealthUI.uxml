@@ -1,8 +1,0 @@
-<ui:UXML xmlns:ui="UnityEngine.UIElements" xmlns:uie="UnityEditor.UIElements" editor-extension-mode="False">
-    <ui:VisualElement name="VisualElement" style="flex-grow: 1; flex-direction: column; padding-bottom: 0; margin-bottom: 0; justify-content: flex-start; flex-basis: 0; flex-wrap: flex-start; flex-shrink: 1; background-color: rgba(0, 0, 0, 0); align-self: auto;">
-        <ui:VisualElement name="container" style="flex-grow: 0; background-size: 100% 100%; width: auto; flex-shrink: 1; justify-content: center; align-self: flex-end; background-color: rgba(0, 0, 0, 0.31); flex-direction: row; margin-left: 0; margin-top: 18px; margin-right: 18px; margin-bottom: 0; align-items: auto; -unity-slice-left: 0; -unity-slice-top: 0; -unity-slice-right: 0; -unity-slice-bottom: 0; transform-origin: left; align-content: flex-start;">
-            <ui:Label text="Health:" style="background-color: rgba(0, 0, 0, 0); color: rgb(255, 33, 0); font-size: 50%; text-align: center; font-style: normal; white-space: nowrap; -unity-text-align: upper-center;" />
-            <ui:Label text="0" name="health" style="background-color: rgba(0, 0, 0, 0); color: rgb(255, 33, 0); font-size: 50%; text-align: center; font-style: normal; white-space: nowrap; -unity-text-align: upper-center;" />
-        </ui:VisualElement>
-    </ui:VisualElement>
-</ui:UXML>
