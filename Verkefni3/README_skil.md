@@ -9,4 +9,4 @@ Leikmaðurinn hefur 100 health og skítur byssukúlu sem gerir 10 líf á óvini
 Peningur gefur 1 stig<br>
 
 # Video
-https://youtu.be/SGy_ge4fam4
+[https://youtu.be/SGy_ge4fam4](https://youtu.be/eHjqV_SXFyo)
