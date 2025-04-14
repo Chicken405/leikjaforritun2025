@@ -3,3 +3,4 @@ Leikurinn er lítill heimur þar sem ___markmiðið___ er að ná ___100___ stig
 Það eru peningar og óvinir í heiminum og hættulegir klettar sem fara beint í sjóinn<br>
 Til að berjast á móti óvininn kemur leikmaðurinn með byssu
 # Video
+https://youtu.be/SGy_ge4fam4
