@@ -1,2 +1,2 @@
-# Leikur (ekki búin)
+# Leikur (ekki)
 https://youtu.be/XCk6OQxQBAY
