@@ -1,2 +1,2 @@
-# Leikur (Ótilbúinn en senda samt)
+# Leikur (ekki búin)
 https://youtu.be/XCk6OQxQBAY
